@@ -1,4 +1,4 @@
-# Readme
+# Overview Algorithms and Concepts in AI
 
 Post #1: A star path finding algorithm (in production)
 
